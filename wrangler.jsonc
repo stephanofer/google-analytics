@@ -1,0 +1,7 @@
+{
+    "name": "google",
+"compatibility_date": "2025-07-21",
+"assets": {
+  "directory": "./dist"
+}
+      }
